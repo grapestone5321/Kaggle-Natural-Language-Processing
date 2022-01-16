@@ -200,3 +200,50 @@ Paper: https://arxiv.org/abs/2111.12763
 -------
 -------
 
+
+# Abhishek Thakur
+
+-------
+
+# Approaching (Almost) Any NLP Problem
+https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC
+
+
+
+### 1 13:17  What is stemming and lemmatization?
+
+
+### 2 20:22  Natural Language Processing: Tokenization (Basic)
+
+
+### 3 19:30  Subword Tokenization: Byte Pair Encoding
+
+
+-------
+
+
+# BERT
+https://www.youtube.com/playlist?list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH
+
+
+### 1 1:01:15  BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
+
+
+### 2 34:20 Training BERT Language Model From Scratch On TPUs
+
+
+### 3 1:16:06 Training Sentiment Model Using BERT and Serving it with Flask API
+
+
+-------
+
+# Approaching (Almost) Any Machine Learning Problem
+https://github.com/abhishekkrthakur/approachingalmost
+
+AAAMLP.pdf: https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf
+
+
+-------
+-------
+
+
