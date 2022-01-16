@@ -9,440 +9,193 @@ Kaggle-Natural-Language-Processing
 # Natural Language Processing
 https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu
 
-
-1
-
-27:33
-NOW PLAYING
-GPT-2: Language Models are Unsupervised Multitask Learners
 Yannic Kilcher
 
-2
+### 1 27:33  GPT-2: Language Models are Unsupervised Multitask Learners
 
-40:13
-NOW PLAYING
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-Yannic Kilcher
 
-3
+### 2 40:13  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
-18:19
-NOW PLAYING
-Stochastic RNNs without Teacher-Forcing
-Yannic Kilcher
 
-4
+### 3 18:19  Stochastic RNNs without Teacher-Forcing
 
-27:07
-NOW PLAYING
-Attention Is All You Need
-Yannic Kilcher
 
-5
+### 4 27:07  Attention Is All You Need
 
-30:06
-NOW PLAYING
-XLNet: Generalized Autoregressive Pretraining for Language Understanding
-Yannic Kilcher
 
-6
+### 5 30:06  XLNet: Generalized Autoregressive Pretraining for Language Understanding
 
-19:15
-NOW PLAYING
-RoBERTa: A Robustly Optimized BERT Pretraining Approach
-Yannic Kilcher
 
-7
+### 6 19:15  RoBERTa: A Robustly Optimized BERT Pretraining Approach
 
-30:22
-NOW PLAYING
-LeDeepChef 👨‍🍳 Deep Reinforcement Learning Agent for Families of Text-Based Games
-Yannic Kilcher
 
-8
+### 7 30:22  LeDeepChef 👨‍🍳 Deep Reinforcement Learning Agent for Families of Text-Based Games
 
-29:12
-NOW PLAYING
-Reformer: The Efficient Transformer
-Yannic Kilcher
 
-9
+### 8 29:12  Reformer: The Efficient Transformer
 
-21:18
-NOW PLAYING
-Turing-NLG, DeepSpeed and the ZeRO optimizer
-Yannic Kilcher
 
-10
+### 9 21:18  Turing-NLG, DeepSpeed and the ZeRO optimizer
 
-24:16
-NOW PLAYING
-Deep Learning for Symbolic Mathematics
-Yannic Kilcher
 
-11
+### 10 24:16  Deep Learning for Symbolic Mathematics
 
-18:59
-NOW PLAYING
-Evaluating NLP Models via Contrast Sets
-Yannic Kilcher
 
-12
+### 11 18:59  Evaluating NLP Models via Contrast Sets
 
-18:15
-NOW PLAYING
-Imputer: Sequence Modelling via Imputation and Dynamic Programming
-Yannic Kilcher
 
-13
+### 12 18:15  Imputer: Sequence Modelling via Imputation and Dynamic Programming
 
-26:36
-NOW PLAYING
-Longformer: The Long-Document Transformer
-Yannic Kilcher
 
-14
+### 13 26:36  Longformer: The Long-Document Transformer
 
-11:21
-NOW PLAYING
-I talk to the new Facebook Blender Chatbot
-Yannic Kilcher
 
-15
+### 14 11:21  I talk to the new Facebook Blender Chatbot
 
-31:48
-NOW PLAYING
-TAPAS: Weakly Supervised Table Parsing via Pre-training (Paper Explained)
-Yannic Kilcher
 
-16
+### 15 31:48  TAPAS: Weakly Supervised Table Parsing via Pre-training (Paper Explained)
 
-1:02:41
-NOW PLAYING
-[Code] PyTorch sentiment classifier from scratch with Huggingface NLP Library (Full Tutorial)
-Yannic Kilcher
 
-17
+### 16 1:02:41  [Code] PyTorch sentiment classifier from scratch with Huggingface NLP Library (Full Tutorial)
 
-11:11
-NOW PLAYING
-[News] OpenAI Model Generates Python Code
-Yannic Kilcher
 
-18
+### 17 11:11  [News] OpenAI Model Generates Python Code
 
-53:35
-NOW PLAYING
-When BERT Plays the Lottery, All Tickets Are Winning (Paper Explained)
-Yannic Kilcher
 
-19
+### 18 53:35  When BERT Plays the Lottery, All Tickets Are Winning (Paper Explained)
 
-53:35
-NOW PLAYING
-When BERT Plays the Lottery, All Tickets Are Winning (Paper Explained)
-Yannic Kilcher
 
-20
+### 19 53:35  When BERT Plays the Lottery, All Tickets Are Winning (Paper Explained)
 
-1:04:30
-NOW PLAYING
-GPT-3: Language Models are Few-Shot Learners (Paper Explained)
-Yannic Kilcher
 
-21
+### 20 1:04:30  GPT-3: Language Models are Few-Shot Learners (Paper Explained)
 
-48:21
-NOW PLAYING
-Synthesizer: Rethinking Self-Attention in Transformer Models (Paper Explained)
-Yannic Kilcher
 
-22
+### 21 48:21  Synthesizer: Rethinking Self-Attention in Transformer Models (Paper Explained)
 
-30:11
-NOW PLAYING
-Movement Pruning: Adaptive Sparsity by Fine-Tuning (Paper Explained)
-Yannic Kilcher
 
-23
+### 22 30:11  Movement Pruning: Adaptive Sparsity by Fine-Tuning (Paper Explained)
 
-31:35
-NOW PLAYING
-BLEURT: Learning Robust Metrics for Text Generation (Paper Explained)
-Yannic Kilcher
 
-24
+### 23 31:35  BLEURT: Learning Robust Metrics for Text Generation (Paper Explained)
 
-31:35
-NOW PLAYING
-BLEURT: Learning Robust Metrics for Text Generation (Paper Explained)
-Yannic Kilcher
 
-25
+### 24 31:35  BLEURT: Learning Robust Metrics for Text Generation (Paper Explained)
 
-48:38
-NOW PLAYING
-TransCoder: Unsupervised Translation of Programming Languages (Paper Explained)
-Yannic Kilcher
 
-26
+### 25 48:38  TransCoder: Unsupervised Translation of Programming Languages (Paper Explained)
 
-48:38
-NOW PLAYING
-TransCoder: Unsupervised Translation of Programming Languages (Paper Explained)
-Yannic Kilcher
 
-27
+### 26 48:38  TransCoder: Unsupervised Translation of Programming Languages (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-28
+### 27 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-29
+### 28 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-30
+### 29 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-31
+### 30 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-32
+### 31 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-33
+### 32 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-50:24
-NOW PLAYING
-Linformer: Self-Attention with Linear Complexity (Paper Explained)
-Yannic Kilcher
 
-34
+### 33 50:24  Linformer: Self-Attention with Linear Complexity (Paper Explained)
 
-29:42
-NOW PLAYING
-VirTex: Learning Visual Representations from Textual Annotations (Paper Explained)
-Yannic Kilcher
 
-35
+### 34 29:42  VirTex: Learning Visual Representations from Textual Annotations (Paper Explained)
 
-29:42
-NOW PLAYING
-VirTex: Learning Visual Representations from Textual Annotations (Paper Explained)
-Yannic Kilcher
 
-36
+### 35 29:42  VirTex: Learning Visual Representations from Textual Annotations (Paper Explained)
 
-36:49
-NOW PLAYING
-Deep Differential System Stability - Learning advanced computations from examples (Paper Explained)
-Yannic Kilcher
 
-37
+### 36 36:49  Deep Differential System Stability - Learning advanced computations from examples (Paper Explained)
 
-36:49
-NOW PLAYING
-Deep Differential System Stability - Learning advanced computations from examples (Paper Explained)
-Yannic Kilcher
 
-38
+### 37 36:49  Deep Differential System Stability - Learning advanced computations from examples (Paper Explained)
 
-1:13:04
-NOW PLAYING
-GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (Paper Explained)
-Yannic Kilcher
 
-39
+### 38 1:13:04 GShard:  Scaling Giant Models with Conditional Computation and Automatic Sharding (Paper Explained)
 
-1:13:04
-NOW PLAYING
-GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (Paper Explained)
-Yannic Kilcher
 
-40
+### 39 1:13:04 GShard:  Scaling Giant Models with Conditional Computation and Automatic Sharding (Paper Explained)
 
-36:50
-NOW PLAYING
-BERTology Meets Biology: Interpreting Attention in Protein Language Models (Paper Explained)
-Yannic Kilcher
 
-41
+### 40 36:50  BERTology Meets Biology: Interpreting Attention in Protein Language Models (Paper Explained)
 
-36:50
-NOW PLAYING
-BERTology Meets Biology: Interpreting Attention in Protein Language Models (Paper Explained)
-Yannic Kilcher
 
-42
+### 41 36:50  BERTology Meets Biology: Interpreting Attention in Protein Language Models (Paper Explained)
 
-48:06
-NOW PLAYING
-Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)
-Yannic Kilcher
 
-43
+### 42 48:06  Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (Paper Explained)
 
-31:22
-NOW PLAYING
-[Classic] Word2Vec: Distributed Representations of Words and Phrases and their Compositionality
-Yannic Kilcher
 
-44
+### 43 31:22  [Classic] Word2Vec: Distributed Representations of Words and Phrases and their Compositionality
 
-31:22
-NOW PLAYING
-[Classic] Word2Vec: Distributed Representations of Words and Phrases and their Compositionality
-Yannic Kilcher
 
-45
+### 44 31:22  [Classic] Word2Vec: Distributed Representations of Words and Phrases and their Compositionality
 
-34:30
-NOW PLAYING
-Big Bird: Transformers for Longer Sequences (Paper Explained)
-Yannic Kilcher
 
-46
+### 45 34:30  Big Bird: Transformers for Longer Sequences (Paper Explained)
 
-1:05:16
-NOW PLAYING
-Hopfield Networks is All You Need (Paper Explained)
-Yannic Kilcher
 
-47
+### 46 1:05:16  Hopfield Networks is All You Need (Paper Explained)
 
-1:00:41
-NOW PLAYING
-REALM: Retrieval-Augmented Language Model Pre-Training (Paper Explained)
-Yannic Kilcher
 
-48
+### 47 1:00:41  REALM: Retrieval-Augmented Language Model Pre-Training (Paper Explained)
 
-45:30
-NOW PLAYING
-Learning to summarize from human feedback (Paper Explained)
-Yannic Kilcher
 
-49
+### 48 45:30  Learning to summarize from human feedback (Paper Explained)
 
-54:39
-NOW PLAYING
-Rethinking Attention with Performers (Paper Explained)
-Yannic Kilcher
 
-50
+### 49 54:39  Rethinking Attention with Performers (Paper Explained)
 
-52:16
-NOW PLAYING
-Language Models are Open Knowledge Graphs (Paper Explained)
-Yannic Kilcher
 
-51
+### 50 52:16  Language Models are Open Knowledge Graphs (Paper Explained)
 
-1:03:18
-NOW PLAYING
-Extracting Training Data from Large Language Models (Paper Explained)
-Yannic Kilcher
 
-52
+### 51 1:03:18  Extracting Training Data from Large Language Models (Paper Explained)
 
-55:46
-NOW PLAYING
-OpenAI DALL·E: Creating Images from Text (Blog Post Explained)
-Yannic Kilcher
 
-53
+### 52 55:46  OpenAI DALL·E: Creating Images from Text (Blog Post Explained)
 
-48:07
-NOW PLAYING
-OpenAI CLIP: ConnectingText and Images (Paper Explained)
-Yannic Kilcher
 
-54
+### 53 48:07  OpenAI CLIP: ConnectingText and Images (Paper Explained)
 
-33:47
-NOW PLAYING
-Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
-Yannic Kilcher
 
-55
+### 54 33:47  Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
 
-43:51
-NOW PLAYING
-Feedback Transformers: Addressing Some Limitations of Transformers with Feedback Memory (Explained)
-Yannic Kilcher
 
-56
+### 55 43:51  Feedback Transformers: Addressing Some Limitations of Transformers with Feedback Memory (Explained)
 
-48:12
-NOW PLAYING
-Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention (AI Paper Explained)
-Yannic Kilcher
 
-57
+### 56 48:12  Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention (AI Paper Explained)
 
-45:14
-NOW PLAYING
-DeBERTa: Decoding-enhanced BERT with Disentangled Attention (Machine Learning Paper Explained)
-Yannic Kilcher
 
-58
+### 57 45:14  DeBERTa: Decoding-enhanced BERT with Disentangled Attention (Machine Learning Paper Explained)
 
-31:22
-NOW PLAYING
-ALiBi - Train Short, Test Long: Attention with linear biases enables input length extrapolation
-Yannic Kilcher
 
-59
+### 58 31:22  ALiBi - Train Short, Test Long: Attention with linear biases enables input length extrapolation
 
-36:37
-NOW PLAYING
-∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained)
-Yannic Kilcher
 
-60
+### 59 36:37  ∞-former: Infinite Memory Transformer (aka Infty-Former / Infinity-Former, Research Paper Explained)
 
-13:19
-NOW PLAYING
-Does GPT-3 lie? - Misinformation and fear-mongering around the TruthfulQA dataset
-Yannic Kilcher
 
-61
+### 60 13:19  Does GPT-3 lie? - Misinformation and fear-mongering around the TruthfulQA dataset
 
-45:22
-NOW PLAYING
-Symbolic Knowledge Distillation: from General Language Models to Commonsense Models (Explained)
-Yannic Kilcher
 
-62
+### 61 45:22  Symbolic Knowledge Distillation: from General Language Models to Commonsense Models (Explained)
 
-57:07
-NOW PLAYING
-Sparse is Enough in Scaling Transformers (aka Terraformer) | ML Research Paper Explained
-Yannic Kilcher
+
+### 62 57:07  Sparse is Enough in Scaling Transformers (aka Terraformer) | ML Research Paper Explained
+
 
 -------
 -------
