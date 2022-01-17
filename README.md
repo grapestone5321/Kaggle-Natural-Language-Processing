@@ -24,7 +24,14 @@ In this competition, you’re challenged to build a machine learning model that 
 Submissions are evaluated using F1 between the predicted and expected answers.
 
 
+-------
 
+## NLP Getting Started Tutorial
+https://www.kaggle.com/philculliton/nlp-getting-started-tutorial?scriptVersionId=25459258
+
+NLP - or Natural Language Processing - is shorthand for a wide array of techniques designed to help machines learn from text. Natural Language Processing powers everything from chatbots to search engines, and is used in diverse tasks like sentiment analysis and machine translation.
+
+In this tutorial we'll look at this competition's dataset, use a simple technique to process it, build a machine learning model, and submit predictions for a score!
 
 -------
 -------
