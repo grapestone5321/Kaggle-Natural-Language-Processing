@@ -82,6 +82,8 @@ Paper: https://arxiv.org/abs/2002.08926
 ### 13 26:36  Longformer: The Long-Document Transformer
 Paper: https://arxiv.org/abs/2004.05150
 
+2 Dec 2020
+
 ### 14 11:21  I talk to the new Facebook Blender Chatbot
 Paper: https://arxiv.org/abs/2004.13637
 
