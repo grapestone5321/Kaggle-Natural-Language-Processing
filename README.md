@@ -47,6 +47,8 @@ Paper: https://cdn.openai.com/better-language-models/language_models_are_unsuper
 ### 2 40:13  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Paper: https://arxiv.org/abs/1810.04805
 
+24 May 2019
+
 ### 3 18:19  Stochastic RNNs without Teacher-Forcing
 Paper: https://arxiv.org/abs/1806.04550
 
