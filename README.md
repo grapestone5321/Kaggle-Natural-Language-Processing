@@ -55,8 +55,12 @@ Paper: https://arxiv.org/abs/1806.04550
 ### 4 27:07  Attention Is All You Need
 Paper: https://arxiv.org/abs/1706.03762
 
+6 Dec 2017
+
 ### 5 30:06  XLNet: Generalized Autoregressive Pretraining for Language Understanding
 Paper: https://arxiv.org/abs/1906.08237
+
+2 Jan 2020
 
 ### 6 19:15  RoBERTa: A Robustly Optimized BERT Pretraining Approach
 Paper: https://arxiv.org/abs/1907.11692
@@ -110,6 +114,8 @@ Paper: https://arxiv.org/abs/2005.00743
 
 ### 22 30:11  Movement Pruning: Adaptive Sparsity by Fine-Tuning (Paper Explained)
 Paper: https://arxiv.org/abs/2005.07683
+
+23 Oct 2020
 
 ### 23 31:35  BLEURT: Learning Robust Metrics for Text Generation (Paper Explained)
 
@@ -176,6 +182,8 @@ Paper: https://arxiv.org/abs/2006.16236
 
 ### 44 31:22  [Classic] Word2Vec: Distributed Representations of Words and Phrases and their Compositionality
 Paper: https://arxiv.org/abs/1310.4546
+
+16 Oct 2013
 
 ### 45 34:30  Big Bird: Transformers for Longer Sequences (Paper Explained)
 Paper: https://arxiv.org/abs/2007.14062
