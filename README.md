@@ -308,156 +308,106 @@ In this course we study about NLP and use the NLP toolkit or NLTK in Python.
 -------
 
 
-1
-
-4:09
-
-Introduction to NLP | Natural Language Processing with Python and NLTK
+### 1 4:09  Introduction to NLP | Natural Language Processing with Python and NLTK
 
 
-2
-
-9:57
-
-NLTK - Introduction | Natural Language Processing with Python and NLTK
+### 2 9:57  NLTK - Introduction | Natural Language Processing with Python and NLTK
 
 
-3
-
-3:53
-
-Structured vs Unstructured data | Natural Language Processing with Python and NLTK
+### 3 3:53  Structured vs Unstructured data | Natural Language Processing with Python and NLTK
 
 
-4
-
-13:37
+### 4 13:37
 
 Reading Text Data | Natural Language Processing with Python and NLTK
 
 
-5
-
-8:14
+### 5 8:14
 
 Exploring the data | Natural Language Processing with Python and NLTK
 
 
-6
-
-9:15
+### 6 9:15
 
 NLP Pipeline for Text data | Natural Language Processing with Python and NLTK
 
 
-7
-
-11:55
+### 7 11:55
 
 Removing Punctuation | Pre-processing | Natural Language Processing with Python and NLTK
 
 
-8
-
-3:47
+### 8 3:47
 
 Tokenization | Natural Language Processing with Python and NLTK
 
 
-9
-
-5:01
+### 9 5:01
 
 Removing stop words | Natural Language Processing with Python and NLTK
 
 
-10
-
-5:22
+### 10 5:22
 
 Stemming | Natural Language Processing with Python and NLTK
 
 
-11
-
-11:16
+### 11 11:16
 
 Porter Stemmer in Python | Natural Language Processing with Python and NLTK
 
 
-12
-
-3:02
+### 12 3:02
 
 Lemmatization in Python | Natural Language Processing with Python and NLTK
 
 
-13
-
-12:55
+### 13 12:55
 
 WordNet Lemmatizer in NLTK python | Natural Language Processing with Python and NLTK
 
 
-14
-
-5:48
+### 14 5:48
 
 Vectorization in Python | Natural Language Processing with Python and NLTK
 
 
-15
-
-14:24
+### 15 14:24
 
 Count Vectorization in Python | CountVectorizer | Natural Language Processing with Python and NLTK
 
 
-16
-
-10:00
+### 16 10:00
 
 N-Grams Natural Language Processing | N-Gram NLP | Natural Language Processing with Python and NLTK
 
 
-17
-
-11:10
+### 17 11:10
 
 TF-IDF Vectorizer Python | Natural Language Processing with Python and NLTK
 
 
-18
-
-4:51
+### 18 4:51
 
 Feature Engineering | Natural Language Processing with Python and NLTK
 
 
-19
-
-6:34
+### 19 6:34
 
 Feature Engineering - Feature Creation | Natural Language Processing with Python and NLTK
 
 
-20
-
-7:21
+### 20 7:21
 
 Feature Evaluation | Natural Language Processing with Python and NLTK
 
 
-21
-
-11:30
+### 21 11:30
 
 Power Transformations | Box-Cox Transformation | Tukey Transformation
 
 
-22
-
-9:51
+### 22 9:51
 
 Evaluation Metrics: Accuracy, Precision and Recall | NLP NLTK
 
