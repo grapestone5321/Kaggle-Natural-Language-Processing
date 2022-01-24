@@ -41,7 +41,10 @@ https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu
 
 Yannic Kilcher
 
-### 1 27:33  GPT-2: Language Models are Unsupervised Multitask Learners
+### 1 27:33  
+
+GPT-2: Language Models are Unsupervised Multitask Learners
+
 Paper: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 
 ### 2 40:13  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -252,13 +255,19 @@ https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC
 
 
 
-### 1 13:17  What is stemming and lemmatization?
+### 1 13:17  
+
+What is stemming and lemmatization?
 
 
-### 2 20:22  Natural Language Processing: Tokenization (Basic)
+### 2 20:22  
+
+Natural Language Processing: Tokenization (Basic)
 
 
-### 3 19:30  Subword Tokenization: Byte Pair Encoding
+### 3 19:30  
+
+Subword Tokenization: Byte Pair Encoding
 
 
 -------
@@ -268,13 +277,19 @@ https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC
 https://www.youtube.com/playlist?list=PL98nY_tJQXZl0WwsJluhc6tGrKWCX2suH
 
 
-### 1 1:01:15  BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
+### 1 1:01:15  
+
+BERT on Steroids: Fine-tuning BERT for a dataset using PyTorch and Google Cloud TPUs
 
 
-### 2 34:20 Training BERT Language Model From Scratch On TPUs
+### 2 34:20 
+
+Training BERT Language Model From Scratch On TPUs
 
 
-### 3 1:16:06 Training Sentiment Model Using BERT and Serving it with Flask API
+### 3 1:16:06 
+
+Training Sentiment Model Using BERT and Serving it with Flask API
 
 
 -------
@@ -308,13 +323,19 @@ In this course we study about NLP and use the NLP toolkit or NLTK in Python.
 -------
 
 
-### 1 4:09  Introduction to NLP | Natural Language Processing with Python and NLTK
+### 1 4:09  
+
+Introduction to NLP | Natural Language Processing with Python and NLTK
 
 
-### 2 9:57  NLTK - Introduction | Natural Language Processing with Python and NLTK
+### 2 9:57  
+
+NLTK - Introduction | Natural Language Processing with Python and NLTK
 
 
-### 3 3:53  Structured vs Unstructured data | Natural Language Processing with Python and NLTK
+### 3 3:53  
+
+Structured vs Unstructured data | Natural Language Processing with Python and NLTK
 
 
 ### 4 13:37
