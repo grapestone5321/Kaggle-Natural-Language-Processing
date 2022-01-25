@@ -142,6 +142,34 @@ Paper: https://arxiv.org/abs/2004.02349
 
 [Code] PyTorch sentiment classifier from scratch with Huggingface NLP Library (Full Tutorial)
 
+Huggingface released its newest library called NLP, which gives you easy access to almost any NLP dataset and metric in one convenient interface. 
+
+We will combine this with a BERT model from Huggingface's Transformers library to build a sentiment classifier for IMDB.
+
+**OUTLINE**:
+
+- 0:00 - Intro
+- 1:30 - Boilerplate
+- 3:20 - PyTorch Lightning Module
+- 9:50 - Load Dataset
+- 12:15 - Tokenization
+- 20:50 - Torch Tensors
+- 25:50 - Data Loader
+- 28:00 - Create BERT Model
+- 32:00 - Implement Validation and Train Step
+- 47:00 - Run & Recap
+- 50:20 - Epilogue
+
+My Code: https://github.com/yk/huggingface-nlp...
+
+NLP Library: https://github.com/huggingface/nlp
+
+Tutorial Colab: https://colab.research.google.com/git...
+
+Transformers Library: https://github.com/huggingface/transf...
+
+Pytorch Lightning: https://github.com/PyTorchLightning/p.
+
 
 ### 17 11:11  
 
